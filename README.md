@@ -14,6 +14,8 @@ Usage
 	Usage : pingg x.x [original ping params]
 	Will execute ping 192.168.x.x [params]
 
+![pingg in action](https://raw.github.com/ZeWaren/pingg/master/pingg.png "pingg in action")
+
 License
 -------
 Public Domain.
